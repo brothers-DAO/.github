@@ -2,4 +2,7 @@
 
 Welcome to the Brothers DAO Github. 
 
-<video src="https://raw.githubusercontent.com/brothers-DAO/.github/main/profile/bro_intro.mp4" />
+
+
+https://github.com/brothers-DAO/.github/assets/95504829/b8679763-39fd-43a1-9627-0480321b8029
+
